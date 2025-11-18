@@ -1,13 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Düğün Etkinliği//TR
 BEGIN:VEVENT
-UID:dugun-20251206
-DTSTAMP:20251118T120000Z
+UID:dugun-20251206@example.com
+DTSTAMP:20250101T120000Z
 DTSTART:20251206T160000Z
-DTEND:20251206T210000Z
+DTEND:20251206T190000Z
 SUMMARY:NAZLI ŞEVVAL & MUSTAFA ERDEM DÜĞÜN TÖRENİ
-LOCATION:Çavuşbaşı Kasrı, Çiftlik Mah., Aşık Veysel Caddesi, Hakça Sokak No:4, 34830 Beykoz/İstanbul
-DESCRIPTION:Adres Linki: https://maps.google.com/maps/place//data=!4m2!3m1!1s0x14cacbfe3489506b:0x38607db57867695a?entry=s&sa=X&ved=2ahUKEwi6touY2vuQAxVQQ_EDHU70GQIQ4kB6BAgYEAA
+LOCATION:Çavuşbaşı Kasrı - Çiftlik\, Aşık Veysel Cad. Hakça Sok. No 4\, Beykoz/İstanbul
+DESCRIPTION:Nazlı Şevval & Mustafa Erdem Düğün Töreni
 END:VEVENT
 END:VCALENDAR
