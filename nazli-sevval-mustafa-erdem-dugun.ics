@@ -11,13 +11,13 @@ LOCATION:Çavuşbaşı Kasrı - Çiftlik\, Aşık Veysel Cad. Hakça Sok. No 4\,
 DESCRIPTION: https://maps.app.goo.gl/crAodRnaPbEiiPS57
 
 BEGIN:VALARM
-TRIGGER:-P2D
+TRIGGER;RELATED=START:-P1D
 ACTION:DISPLAY
 DESCRIPTION:Hatırlatma - Düğün yarın!
 END:VALARM
 
 BEGIN:VALARM
-TRIGGER:-PT2H
+TRIGGER;RELATED=START:-PT2H
 ACTION:DISPLAY
 DESCRIPTION:Hatırlatma - Düğün 2 saat sonra!
 END:VALARM
